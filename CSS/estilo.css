@@ -4,7 +4,9 @@ body {
   background-color: #570202
  }
   h1{
-  color: #FFFFFF
+  color: #FFFFFF ;
+  font-family: 'Klee One', cursive;
+    
 }
 
 p{
@@ -14,9 +16,11 @@ p{
 }
 
 li{
-  color: #FFFFFF
+  color: #FFFFFF ;
+   font-family: 'Klee One', cursive;
 }
 
 h2{
-  color: #FFFFFF
+  color: #FFFFFF ;
+   font-family: 'Klee One', cursive;
 }
